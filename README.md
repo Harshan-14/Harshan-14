@@ -1,5 +1,5 @@
 - 👋 Salutations, I am Harshan M V
-- 👀 I’m interested in C++ and java.
+- 👀 I’m interested in C++ and python.
 - 🌱 I’m currently pursuing Msc Data Science at PSG College of Technology
 
 
